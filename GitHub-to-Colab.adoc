@@ -9,4 +9,15 @@ Google Colab Notebooks are to Jupyter Notebooks as a Google Doc is to Microsoft 
 
 The first thing you will want to do is open a new Colab Notebook on Colabs
 
-You can click link:/https://github.com/couchbaselabs/Linq2Couchbase[here] to do that
+You can click link:/https://colab.research.google.com/#create=true[here] to do that.
+
+It should bring you here -
+
+
+
+
+== Step Two
+
+Now you are in Colabs youll want to open up the GitHub Jupyter notebook file you found.
+
+You can do that by going here
