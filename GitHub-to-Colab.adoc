@@ -14,7 +14,7 @@ You can click link:/https://colab.research.google.com/#create=true[here] to do t
 
 It should bring you here -
 
-image::new-colab.png[]
+image::new-colab.png[alt=New Colab opened in Google Colab, height=480]
 
 
 
@@ -22,4 +22,26 @@ image::new-colab.png[]
 
 Now you are in Colabs youll want to open up the GitHub Jupyter notebook file you found.
 
-You can do that by going here
+You can do that by going to File/Open Notebook
+
+image::open-colab.png[alt=File Open Colab, height=480]
+
+
+Which will take you to this modal. Click GitHub in the orange nav bar to bring you here -
+
+image::orange-bar.png[alt=Selecting GitHub from the Open Modal's nav bar, height=480]
+
+
+== Step Three
+
+Now go to GitHub and copy the url of the notebook you want to open from your browser's bar -
+
+image::grabbing-notebook.png[alt=File Open Colab, height=480]
+
+Paste the url into the search bar in the Colab's GitHub Open File Modal
+
+image::pasting-notebook.png[alt=File Open Colab, height=480]
+
+Then click the magnifying glass icon to search. After it loads you should arrive at your notebook on Colab -
+
+image::notebook-loaded.png[alt=File Open Colab, height=480]
