@@ -1,0 +1,15 @@
+# Setting up Jupyter Notebooks on Your Own Machine
+
+## Without the terminal/command line
+
+For everyone not yet comfy with installing things via text based access to the OS I recommend getting Jupyter Notebooks via Anaconda.
+
+To do this go to link:https://www.anaconda.com/products/individual[Anaconda for Individuals]
+
+Then Download the installer-
+
+Once you have the Anaconda interface running click the Jupyter Notebook button. If its not already installed click install. If it is installed click launch.
+
+Jupyter will now launch.
+
+It should open at your home directory. From here you have the open to create a new notebook, folder, moving through your computers directory. 
